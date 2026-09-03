@@ -1,0 +1,23 @@
+id: IF30A1358
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-GR-23
+  title: ༄༅། །རྗེ་བཙུན་བླ་མ་མུས་པ་ཆེན་པོའི་རྣམ་པར་ཐར་པ་ངོ་མཚར་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  authors: &id001
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-23
+  cover: IBA-GR-23.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྗེ་བཙུན་བླ་མ་མུས་པ་ཆེན་པོའི་རྣམ་པར་ཐར་པ་ངོ་མཚར་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: IBA-GR-23
+  cover: IBA-GR-23.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
