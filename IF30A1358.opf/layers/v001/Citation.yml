@@ -1,11 +1,11 @@
-id: 62039692f3984b4d8914732fefd9e60c
+id: 93cf4fc985c44b69aef833f00812b0dc
 annotation_type: Citation
 revision: '00001'
 annotations:
-  138af1b3db074422b3a26672c55960d8:
+  bc82a20ff9c54e39bfbdfc8527bbb13a:
     span:
       start: 1825
       end: 1858
     isverse: true
 local_ids:
-  138af1b3db074422b3a26672c55960d8: 200000
+  bc82a20ff9c54e39bfbdfc8527bbb13a: 200000
